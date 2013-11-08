@@ -39,12 +39,15 @@ Git和GitHub我就不多做介绍了,至于GitHub Pages的使用,网上教程也
 	unzip rubygems-1.8.25.zip
 	cd rubygems-1.8.25
 	ruby setup.rb
-      注意这里有个坑,因为GFW的存在,你有可能连接不上http://rubyforge.org,这时候你可以看[这里](https://github.com/mojombo/jekyll/issues/1409)
-2. 此时可以安装Jekyll了
+注意这里有个坑,因为GFW的存在,你有可能连接不上`http://rubyforge.org`, 这时候你可以看 [这里](https://github.com/mojombo/jekyll/issues/1409)
+
+2.此时可以安装Jekyll了
+
 	gem install jekyll
 
-推荐:
+### 推荐: ###
 1.http://beiyuu.com/github-pages/
+
 2.http://hahaya.github.io/2013/06/26/build-blog-on-github.html  
   
 
